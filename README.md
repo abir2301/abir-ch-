@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm abir ch</h1>
-<h3 align="center">A passionate frontend developer from tunisia</h3>
+<h3 align="center">A Tunisian Software Engineer Student </h3>
 
 - 🔭 I’m currently working as **flutter mobile developper**
 
