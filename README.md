@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm abir chalghami</h1>
-<h3 align="center">A Tunisian Software Engineer Student </h3>
+<h3 align="center">A Tunisian Software Engineer  </h3>
 
-- 🔭 I’m currently working as **flutter mobile developper**
+- 🔭 I’m currently working as **full stack developper**
 
 - 🌱 I’m currently learning **devops principles**
 
-- 💬 Ask me about **flutter ,nodejs , java**
+- 💬 Ask me about **react native  ,nodejs , php**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
